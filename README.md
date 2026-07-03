@@ -7,24 +7,20 @@ Software Developer • Competitive Programmer • Full Stack Developer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3AA6FF&center=true&vCenter=true&width=900&lines=390%2B+LeetCode+Problems;LeetCode+Rating+1568%2B;Codeforces+Rating+1000%2B;Winner+of+Arjuna+2.0+Hackathon;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Software+Developer;Competitive+Programmer;390%2B+LeetCode+Problems;LeetCode+Rating+1568%2B;Codeforces+Rating+1000%2B;Hackathon+Winner;Full+Stack+Developer;Always+Learning+" />
 </p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Akash-314&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Akash-314&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
-<a href="https://github.com/Akash-314?tab=followers">
-<img src="https://img.shields.io/github/followers/Akash-314?logo=github&style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/github/followers/Akash-314?label=Followers&style=for-the-badge&logo=github&color=181717"/>
 
-<a href="https://github.com/Akash-314">
-<img src="https://img.shields.io/github/stars/Akash-314?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/github/stars/Akash-314?label=Stars&style=for-the-badge&logo=github&color=f1c40f"/>
+
+<img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-28A745?style=for-the-badge"/>
 
 </p>
 
@@ -32,53 +28,126 @@ Software Developer • Competitive Programmer • Full Stack Developer
 
 # 💫 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<table>
+<tr>
 
-🎓 B.Tech Information Technology Student
+<td width="58%" valign="top">
 
-🏫 Rajkiya Engineering College, Banda
+### 👋 Hello, I'm Akash Kumar
 
-🏆 Winner — Arjuna 2.0 Hackathon (NIT Agartala)
+🎓 **B.Tech Information Technology Student**  
+🏫 **Rajkiya Engineering College, Banda**
 
-💻 Solved **390+ LeetCode Problems**
+---
 
-⭐ **LeetCode Rating:** **1568+**
+### 🚀 Competitive Programming
 
-🚀 **Codeforces Rating:** **1000+**
+- 💻 Solved **390+ LeetCode Problems**
+- ⭐ **LeetCode Rating:** **1568+**
+- 🚀 **Codeforces Rating:** **1000+**
 
-🌱 Currently Learning
+---
 
-- System Design
-- Backend Development
-- DevOps
-- Cloud
+### 🏆 Achievements
 
-💬 Ask me about
+- 🥇 Winner — **Arjuna 2.0 Hackathon (NIT Agartala)**
+- 💡 Passionate about solving real-world problems
+- 🌱 Continuously improving through DSA and Full Stack Development
 
+---
+
+### 💻 Currently Learning
+
+- ⚙️ System Design
+- 🌐 Backend Development
+- ☁️ Cloud Computing
+- 🚀 DevOps
+
+---
+
+### 💬 Ask Me About
+
+```text
+C++ • Java • Python
+React • Node.js • Express
+MongoDB • TypeScript
+Competitive Programming
 ```
-C++
-Java
-Python
-React
-Node.js
-Express
-MongoDB
-TypeScript
-```
 
-⚡ Fun Fact
+---
 
-```
-I love solving DSA more than sleeping 😄
-```
+### ⚡ Fun Fact
+
+> I enjoy solving coding problems more than watching movies. 😄
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash-314&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
+<img src="assets/tech-stack-banner.png" width="100%">
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,ts,react,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,vscode"/>
+---
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,ts"/>
+
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 </p>
 
