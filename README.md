@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://leetcode.com/u/Sp4rk314/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-390%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://codeforces.com/profile/itsakash314" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-1000%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
@@ -148,7 +148,7 @@ Recruiters at top engineering companies value strong algorithmic thinking. Here 
 | :--- | :--- | :--- |
 | **550+** Total DSA Problems Solved | **LeetCode:** 1575+ Rating | 🥇 **Winner** - Arjuna 2.0 (NIT Agartala, 2025) |
 | **400+** LeetCode Problems Solved | **Codeforces:** 1010 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
-| **100+** Codeforces Problems Solved | **CodeChef:** 1161 Max Rating | Organized **HackFest 2.0** at REC Banda |
+| **100+** Codeforces Problems Solved | **CodeChef:** 1202 Max Rating | Organized **HackFest 2.0** at REC Banda |
 
 </div>
 
