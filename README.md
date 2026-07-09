@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://codeforces.com/profile/itsakash314" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1000%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1010%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 <a href="https://drive.google.com/file/d/1vXU9lLGYDbt1U690DO5o_iqtBw76hV49/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/>
