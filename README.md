@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://codeforces.com/profile/itsakash314" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1053%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1094%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 <a href="https://drive.google.com/file/d/1vXU9lLGYDbt1U690DO5o_iqtBw76hV49/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/>
@@ -147,7 +147,7 @@ Recruiters at top engineering companies value strong algorithmic thinking. Here 
 | 🧩 Problem Solving | 🏅 Competitive Programming | 🚀 Hackathons |
 | :--- | :--- | :--- |
 | **550+** Total DSA Problems Solved | **LeetCode:** 1587+ Rating | 🥇 **Winner** - Arjuna 2.0 (NIT Agartala, 2025) |
-| **415+** LeetCode Problems Solved | **Codeforces:** 1053 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
+| **415+** LeetCode Problems Solved | **Codeforces:** 1094 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
 | **100+** Codeforces Problems Solved | **CodeChef:** 1308 Max Rating | Organized **HackFest 2.0** at REC Banda |
 
 </div>
