@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://leetcode.com/u/Sp4rk314/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-440%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://codeforces.com/profile/itsakash314" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-1094%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
