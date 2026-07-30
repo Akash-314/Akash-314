@@ -147,8 +147,8 @@ Recruiters at top engineering companies value strong algorithmic thinking. Here 
 | 🧩 Problem Solving | 🏅 Competitive Programming | 🚀 Hackathons |
 | :--- | :--- | :--- |
 | **550+** Total DSA Problems Solved | **LeetCode:** 1659+ Rating | 🥇 **Winner** - Arjuna 2.0 (NIT Agartala, 2025) |
-| **440+** LeetCode Problems Solved | **Codeforces:** 1094 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
-| **100+** Codeforces Problems Solved | **CodeChef:** 1308 Max Rating | Organized **HackFest 2.0** at REC Banda |
+| **450+** LeetCode Problems Solved | **Codeforces:** 1094 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
+| **115+** Codeforces Problems Solved | **CodeChef:** 1424 Max Rating | Organized **HackFest 2.0** at REC Banda |
 
 </div>
 
