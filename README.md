@@ -5,14 +5,14 @@
 
 ### Software Developer • Competitive Programmer • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=600%2B+DSA+Problems+Solved;Competitive+Programmer;Full+Stack+Developer;Hackathon+Winner;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Competitive+Programmer;Codeforces+Max+Rating+1109;LeetCode+Max+Rating+1731;2%E2%AD%90+%40+CodeChef+%7C+1425;Backend+Developer;Arjuna+2.0+Hackathon+Winner;MUMBAIHACKS+2025+Finalist;Learning+AI+%26+Machine+Learning" alt="Typing SVG" />
 
 <p align="center">
 <a href="https://leetcode.com/u/Sp4rk314/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-480%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://codeforces.com/profile/itsakash314" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1152%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1109%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 <a href="https://drive.google.com/file/d/1vXU9lLGYDbt1U690DO5o_iqtBw76hV49/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/>
@@ -147,7 +147,7 @@ Recruiters at top engineering companies value strong algorithmic thinking. Here 
 | 🧩 Problem Solving | 🏅 Competitive Programming | 🚀 Hackathons |
 | :--- | :--- | :--- |
 | **650+** Total DSA Problems Solved | **LeetCode:** 1731+ Rating | 🥇 **Winner** - Arjuna 2.0 (NIT Agartala, 2025) |
-| **480+** LeetCode Problems Solved | **Codeforces:** 1104 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
+| **500+** LeetCode Problems Solved | **Codeforces:** 1109 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
 | **140+** Codeforces Problems Solved | **CodeChef:** 1425 Max Rating | Organized **HackFest 2.0** at REC Banda |
 
 </div>
