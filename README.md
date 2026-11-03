@@ -5,14 +5,14 @@
 
 ### Software Developer • Competitive Programmer • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Competitive+Programmer;Pupil+@Codeforces+Max+Rating+1272;LeetCode+Max+Rating+1807;2%E2%AD%90+%40+CodeChef+%7C+1425;Backend+Developer;Arjuna+2.0+Hackathon+Winner;MUMBAIHACKS+2025+Finalist;Learning+AI+%26+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Competitive+Programmer;Pupil+@Codeforces+Max+Rating+1272;LeetCode+Max+Rating+1815;2%E2%AD%90+%40+CodeChef+%7C+1508;Backend+Developer;Arjuna+2.0+Hackathon+Winner;MUMBAIHACKS+2025+Finalist;Learning+AI+%26+Machine+Learning" alt="Typing SVG" />
 
 <p align="center">
 <a href="https://leetcode.com/u/Sp4rk314/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-540%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-620%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://codeforces.com/profile/itsakash314" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1269%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1272%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 <a href="https://drive.google.com/file/d/1vXU9lLGYDbt1U690DO5o_iqtBw76hV49/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/>
@@ -146,9 +146,9 @@ Recruiters at top engineering companies value strong algorithmic thinking. Here 
 
 | 🧩 Problem Solving | 🏅 Competitive Programming | 🚀 Hackathons |
 | :--- | :--- | :--- |
-| **700+** Total DSA Problems Solved | **LeetCode:** 1807+ Rating | 🥇 **Winner** - Arjuna 2.0 (NIT Agartala, 2025) |
-| **540+** LeetCode Problems Solved | **Codeforces:** 1272 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
-| **170+** Codeforces Problems Solved | **CodeChef:** 1477 Max Rating | Organized **HackFest 2.0** at REC Banda |
+| **800+** Total DSA Problems Solved | **LeetCode:** 1815+ Rating | 🥇 **Winner** - Arjuna 2.0 (NIT Agartala, 2025) |
+| **620+** LeetCode Problems Solved | **Codeforces:** 1272 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
+| **200+** Codeforces Problems Solved | **CodeChef:** 1508 Max Rating | Organized **HackFest 2.0** at REC Banda |
 
 </div>
 
